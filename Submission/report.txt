@@ -2,4 +2,8 @@
 2 º Submissão - 0,4711
 3 º Submissão - 0,4088
 4 º Submissão - 0,4977 (Valores em falta de COULDNESS, preenchidos com a moda do dia/mês)
-5 º Submissão - (Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano, posteriormente se não encontrar preencher com moda da semana/ano, e posteriormente com a moda do mês/ano)
+5 º Submissão - 0,4822
+6 º Submissão - 0,48
+7 º Submissão - (Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano e posteriormente semana/ano)
+8 º Submissão - (Valores em falta de RAIN, preenchidos com a moda do dia/mês/ano e posteriormente semana/ano)  
+9 º Submissão - (Correlacionar dados para tentar obter valores em falta)

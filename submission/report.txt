@@ -7,3 +7,6 @@
 7 º Submissão - 0,4822(Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano e posteriormente semana/ano)
 8 º Submissão - 0,4977(Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano)
 9 º Submissão - 0,495 (Valores em falta de RAIN, preenchidos com a moda do semana/ano)
+10 º Submissão - 0,5422 (Xgboost)
+11 º Submission - 0,5422 (Bagging GridShearchCV)
+12 º Submission - 0,46

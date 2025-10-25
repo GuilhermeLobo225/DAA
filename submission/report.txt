@@ -1,0 +1,9 @@
+1 º Submissão - 0,4777 (DROP de colunas com valores em falta e eliminação de linhas sem velocidade)
+2 º Submissão - 0,4711
+3 º Submissão - 0,4088
+4 º Submissão - 0,4977 (Valores em falta de COULDNESS, preenchidos com a moda do dia/mês)
+5 º Submissão - 0,4822
+6 º Submissão - 0,48
+7 º Submissão - 0,4822(Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano e posteriormente semana/ano)
+8 º Submissão - 0,4977(Valores em falta de COULDNESS, preenchidos com a moda do dia/mês/ano)
+9 º Submissão - 0,495 (Valores em falta de RAIN, preenchidos com a moda do semana/ano)

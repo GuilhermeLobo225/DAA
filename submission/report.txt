@@ -10,3 +10,10 @@
 10 º Submissão - 0,5422 (Xgboost)
 11 º Submission - 0,5422 (Bagging GridShearchCV)
 12 º Submission - 0,46
+13 º Submission -0.51555
+14 º Submission - 0.50888
+15 º Submission - 0.81555 (moda ano/mês/dia, ano/semana e ano/mês com xgb_grid_search)
+16 º Submission - 0.50666
+17 º Submission - 0.81333 (moda ano/mês/dia com xgb_grid_search belnded com DT_grid)
+18 º Submission - 0.81777 (moda ano/mês/dia, ano/semana e ano/mês com blend de xgb_grid e DT_grid)
+19 º Submission - 0.81111 (moda ano/mês/dia, ano/semana e ano/mês com blend de xgb_grid e DT_grid e bagging_grid)

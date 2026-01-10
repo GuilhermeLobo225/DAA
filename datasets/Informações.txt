@@ -1,0 +1,2 @@
+1 - Substituir valores com "NULL" por "sem chuva" na coluna "AVERAGE_RAIN"
+2 - Substituir valores com "" por "sem chuva" na coluna "AVERAGE_RAIN"

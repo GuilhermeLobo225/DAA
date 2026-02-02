@@ -71,12 +71,6 @@ Para reproduzir os resultados apresentados no relatório, recomenda-se a criaç�
 4. **Gerar Resultados:** Execute o notebook code.ipynb. O ficheiro submission.csv será gerado automaticamente.
 
 ---
-## 📊 Resumo dos Resultados
-- Validação Local: 82%
-- Kaggle Public Score (30%): 83,5%
-- Kaggle Private Score (70%): 81,3%
-
----
 
 ## 📜 Licença
 Este trabalho é de cariz estritamente académico. Universidade do Minho, Escola de Engenharia, Departamento de Informática.

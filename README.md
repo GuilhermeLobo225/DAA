@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Grade](https://img.shields.io/badge/Nota_Final-18.2%2F20-brightgreen)
 ![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º_Lugar-blue)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
 
 Este projeto foi desenvolvido no âmbito da Unidade Curricular de **Dados e Aprendizagem Automática** (2025/2026) da Universidade do Minho. O objetivo foi desenvolver modelos de Machine Learning para prever o fluxo de tráfego no Porto, seguindo a metodologia **CRISP-DM**.
 

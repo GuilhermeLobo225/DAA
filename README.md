@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
 ![Grade](https://img.shields.io/badge/Grade-18.2%2F20-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Done-success)
-![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º_Lugar-blue)
+![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º-blue)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
 > **Projeto de Dados e Aprendizagem Automática** | Universidade do Minho

@@ -1,10 +1,12 @@
 # 🚦 Previsão de Fluxo de Tráfego Rodoviário no Porto
 
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-![Grade](https://img.shields.io/badge/Nota_Final-18.2%2F20-brightgreen)
-![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º_Lugar-blue)
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
+![Grade](https://img.shields.io/badge/Grade-18.2%2F20-brightgreen)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º_Lugar-blue)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
+> **Projeto de Dados e Aprendizagem Automática** | Universidade do Minho
 Este projeto foi desenvolvido no âmbito da Unidade Curricular de **Dados e Aprendizagem Automática** (2025/2026) da Universidade do Minho. O objetivo foi desenvolver modelos de Machine Learning para prever o fluxo de tráfego no Porto, seguindo a metodologia **CRISP-DM**.
 
 ---

@@ -1,15 +1,34 @@
-# Previsão de Fluxo de Tráfego Rodoviário no Porto 🚦
+# 🚦 Previsão de Fluxo de Tráfego Rodoviário no Porto
 
-Este projeto foi desenvolvido no âmbito da Unidade Curricular de **Dados e Aprendizagem Automática** (2025/2026) da Universidade do Minho. O objetivo principal é o desenvolvimento de modelos de Machine Learning capazes de prever o fluxo de tráfego rodoviário na cidade do Porto, seguindo a metodologia **CRISP-DM**.
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Grade](https://img.shields.io/badge/Nota_Final-18.2%2F20-brightgreen)
+![Kaggle](https://img.shields.io/badge/Kaggle_Rank-4º_Lugar-blue)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
-🏆 **4º Lugar na Competição Kaggle** (Entre 57 equipas)
-🔗 **Competição:** [Competição ML @DAA - Edição 2025/2026](https://www.kaggle.com/competitions/DAA-TG)
+Este projeto foi desenvolvido no âmbito da Unidade Curricular de **Dados e Aprendizagem Automática** (2025/2026) da Universidade do Minho. O objetivo foi desenvolver modelos de Machine Learning para prever o fluxo de tráfego no Porto, seguindo a metodologia **CRISP-DM**.
 
-📄 **Relatório Completo:** [Ver PDF do Relatório](./report.pdf)
-*(Recomendamos a leitura do relatório para detalhes profundos sobre a análise exploratória, decisões de modelação e discussão dos resultados)*
+---
+
+## 🏆 Conquistas
+* **Classificação:** 18,2 valores.
+* **Competição Kaggle:** 4º Lugar (entre 57 equipas).
+* **Competição:** [Competição ML @DAA - Edição 2025/2026](LINK_DA_COMPETICAO_AQUI)
+
+## 📊 Resumo dos Resultados
+O nosso modelo final destacou-se pela consistência entre a validação local e o teste público/privado:
+
+| Métrica | Score |
+| :--- | :--- |
+| **Validação Local** | 82.0% |
+| **Kaggle Public Score** | 83.5% |
+| **Kaggle Private Score** | 81.3% |
+
+> 📄 **Relatório Completo:** [Ver PDF do Relatório](./report.pdf)
+> *(Recomendamos a leitura para detalhes sobre a análise exploratória e decisões de modelação)*
+
+---
 
 ## 👥 Autores (Grupo 34)
-
 * **Luís Silva** (PG60390)
 * **Guilherme Pinto** (PG60225)
 * **Pedro Reis** (PG59908)
@@ -18,14 +37,11 @@ Este projeto foi desenvolvido no âmbito da Unidade Curricular de **Dados e Apre
 ---
 
 ## 📂 Estrutura do Repositório
-
-* `report.pdf`: Relatório técnico detalhado do projeto.
-* `code.ipynb`: Notebook com o **modelo final** e o pipeline de geração da submissão.
-* `dev/`: Pasta contendo todo o processo de desenvolvimento, incluindo a **análise exploratória de dados (EDA)** e os testes com os vários modelos (Decision Tree, SVM, XGBoost, etc.).
-* `datasets/`: Pasta contendo os ficheiros de dados.
-* `env.yml`: Ficheiro de configuração do ambiente Conda com todas as dependências necessárias.
-* `submission/`: Pasta onde são gerados os ficheiros de submissão para o Kaggle.
-* `images/`: Imagens e gráficos gerados durante a análise.
+* `report.pdf`: Relatório técnico detalhado.
+* `code.ipynb`: Notebook com o modelo final e pipeline de submissão.
+* `dev/`: Histórico de desenvolvimento (EDA, testes com SVM, XGBoost, etc.).
+* `datasets/`: Dados utilizados no treino e teste.
+* `images/`: Gráficos gerados durante a análise.
 
 ---
 
